@@ -1,8 +1,6 @@
 streamlit
 pandas
 plotly
-datetime
-time
 gspread
 oauth2client
 scikit-learn
