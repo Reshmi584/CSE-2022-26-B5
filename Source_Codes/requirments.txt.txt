@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly.express
+datetime
+time
+gspread
+oauth2client
+scikit-learn
